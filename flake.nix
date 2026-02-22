@@ -82,7 +82,7 @@
               glib
               gtk3
               libGL
-              libX11
+              libx11
               libXScrnSaver
               libXcomposite
               libXcursor
